@@ -1,0 +1,2 @@
+# sekolah
+ SI SMK Gunadharma

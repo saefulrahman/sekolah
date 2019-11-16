@@ -1,0 +1,8 @@
+[30-Oct-2015 11:25:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'aksarabu'@'localhost' (using password: NO) in /home/aksarabu/public_html/BackboneYAB/lib/action-login.php on line 14
+[30-Oct-2015 11:25:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aksarabu/public_html/BackboneYAB/lib/action-login.php on line 14
+[30-Oct-2015 11:25:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'aksarabu'@'localhost' (using password: NO) in /home/aksarabu/public_html/BackboneYAB/lib/action-login.php on line 18
+[30-Oct-2015 11:25:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aksarabu/public_html/BackboneYAB/lib/action-login.php on line 18
+[30-Oct-2015 11:27:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/aksarabu/public_html/BackboneYAB/lib/action-login.php on line 15
+[30-Oct-2015 14:09:32 UTC] PHP Warning:  unlink(../img/achievement/): Is a directory in /home/aksarabu/public_html/BackboneYAB/lib/action-delete.php on line 125
+[30-Oct-2015 14:09:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aksarabu/public_html/BackboneYAB/lib/action-delete.php:125) in /home/aksarabu/public_html/BackboneYAB/lib/action-delete.php on line 131
+[08-Feb-2016 04:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aksarabu/public_html/BackboneYAB/lib/action-add.php on line 156
